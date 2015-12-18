@@ -1,0 +1,1 @@
+curl -H “Content-Type:application/json” --data ‘{“build”:true}’ -X POST https://registry.hub.docker.com/u/frontendgineer/docker-ci/trigger/897746ad-53fa-45a8-9c37-a957afe0441b/
